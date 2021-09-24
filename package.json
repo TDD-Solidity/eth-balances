@@ -1,0 +1,23 @@
+{
+  "name": "eth-balances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "tw": "nodemon --ext \"js,sol\" --exec \"truffle test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TDD-Solidity/eth-balances.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TDD-Solidity/eth-balances/issues"
+  },
+  "homepage": "https://github.com/TDD-Solidity/eth-balances#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
